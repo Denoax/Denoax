@@ -1,3 +1,3 @@
-<a href="https://github.com/Denoax/janktrace">
-  <img src="./assets/profile-field-tall.png" alt="Mani Marami Milani — computer science and mathematics. janktrace streams Chrome performance traces and finds main-thread stalls. Node 20–24, zero runtime dependencies, 15 tests, CI passing." width="100%">
+<a href="https://manimarami.com">
+  <img src="./assets/profile-field-builds.png" alt="Mani Marami Milani — computer science and mathematics. Builds: janktrace, a Chrome performance tracer; odder.ca; and the portfolio at manimarami.com. GitHub member since 2019-10-13." width="100%">
 </a>
