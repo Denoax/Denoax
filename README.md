@@ -1,14 +1,18 @@
 <div align="center">
-  <a href="https://manimarami.com">
-    <img src="./assets/profile-header-pelagic.webp" alt="Mani Marami Milani — computer science, mathematics, and the Pelagic procedural jellyfish simulation." width="100%">
-  </a>
-  <a href="https://github.com/Denoax/codex-hermes-router">
-    <img src="https://raw.githubusercontent.com/Denoax/codex-hermes-router/main/showcase/assets/codex-x-hermes.png" alt="Codex × Hermes — authority-aware local inference offload for Codex." width="100%">
-  </a>
-  <a href="https://github.com/Denoax/konata-hyprland-dotfiles">
-    <img src="./assets/kona-v3-banner-mini.webp" alt="Kona Desktop V3 — Arch Linux and Hyprland." width="92%">
-  </a>
-  <a href="https://manimarami.com">
-    <img src="./assets/profile-government-footer.webp" alt="Government of Canada — AAFC engineering experience." width="100%">
-  </a>
+
+# MANI MARAMI MILANI
+
+**Computer Science × Mathematics**<br>
+Building cinematic systems, developer tools, and unusually polished Linux experiences.
+
+<a href="https://github.com/Denoax/portfolio"><img src="./assets/projects/portfolio.webp" alt="Portfolio — Information Under Gravity" width="49%"></a>
+<a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/projects/pelagic.webp" alt="Pelagic — a living WebGL ocean" width="49%"></a>
+<a href="https://github.com/Denoax/codex-hermes-router"><img src="./assets/projects/codex-hermes.webp" alt="Codex × Hermes — bounded work and verified results" width="49%"></a>
+<a href="https://github.com/Denoax/konata-hyprland-dotfiles"><img src="./assets/projects/kona-v3.webp" alt="Kona Desktop V3 — Arch Linux and Hyprland" width="49%"></a>
+
+**Government of Canada · Agriculture and Agri-Food Canada**<br>
+FSWEP → Intern Co-op I → Intern Co-op II → Intern Co-op III
+
+[Portfolio](https://manimarami.com) · [GitHub projects](https://github.com/Denoax?tab=repositories) · [Pelagic live experience](https://denoax.github.io/pelagic-jellyfish-webgl/)
+
 </div>
