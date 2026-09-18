@@ -1,7 +1,6 @@
 <div align="center">
 
 # MANI MARAMI MILANI
-
 **Computer Science × Mathematics**<br>
 <a href="https://github.com/Denoax/portfolio"><img src="./assets/tabs/portfolio.webp" alt="Portfolio — Information Under Gravity" width="100%"></a>
 <a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/tabs/pelagic.webp" alt="Pelagic — a living WebGL ocean" width="100%"></a>
