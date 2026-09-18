@@ -5,10 +5,10 @@
 **Computer Science × Mathematics**<br>
 Building cinematic systems, developer tools, and unusually polished Linux experiences.
 
-<a href="https://github.com/Denoax/portfolio"><img src="./assets/projects/portfolio.webp" alt="Portfolio — Information Under Gravity" width="49%"></a>
-<a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/projects/pelagic.webp" alt="Pelagic — a living WebGL ocean" width="49%"></a>
-<a href="https://github.com/Denoax/codex-hermes-router"><img src="./assets/projects/codex-hermes.webp" alt="Codex × Hermes — bounded work and verified results" width="49%"></a>
-<a href="https://github.com/Denoax/konata-hyprland-dotfiles"><img src="./assets/projects/kona-v3.webp" alt="Kona Desktop V3 — Arch Linux and Hyprland" width="49%"></a>
+<a href="https://github.com/Denoax/portfolio"><img src="./assets/tabs/portfolio.webp" alt="Portfolio — Information Under Gravity" width="100%"></a>
+<a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/tabs/pelagic.webp" alt="Pelagic — a living WebGL ocean" width="100%"></a>
+<a href="https://github.com/Denoax/codex-hermes-router"><img src="./assets/tabs/codex-hermes.webp" alt="Codex × Hermes — authority-aware local inference offload" width="100%"></a>
+<a href="https://github.com/Denoax/konata-hyprland-dotfiles"><img src="./assets/tabs/kona-v3.webp" alt="Kona Desktop V3 — Arch Linux and Hyprland" width="100%"></a>
 
 **Government of Canada · Agriculture and Agri-Food Canada**<br>
 FSWEP → Intern Co-op I → Intern Co-op II → Intern Co-op III
