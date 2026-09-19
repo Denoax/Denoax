@@ -2,6 +2,7 @@
 <a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/tabs/pelagic-banner.webp" alt="Pelagic — a living WebGL ocean" width="100%"></a>
 <a href="https://github.com/Denoax/codex-hermes-router"><img src="./assets/tabs/codex-hermes.webp" alt="Codex × Hermes — authority-aware local inference offload" width="100%"></a>
 <a href="https://github.com/Denoax/konata-hyprland-dotfiles"><img src="./assets/tabs/kona-v3-banner.webp" alt="Kona Desktop V3 — Arch Linux and Hyprland" width="100%"></a>
+<a href="https://github.com/Denoax/Kattis"><img src="./assets/tabs/kattis-competitive-programming.webp" alt="Competitive Programming — Open Kattis solutions" width="100%"></a>
 <a href="https://www.linkedin.com/in/mani-marami-milani-8713a7309/"><img src="./assets/tabs/government-canada.webp" alt="Government of Canada and Agriculture and Agri-Food Canada — FSWEP through Co-op III" width="100%"></a>
 <div align="center">
 
