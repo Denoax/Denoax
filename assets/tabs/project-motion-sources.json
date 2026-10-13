@@ -94,16 +94,14 @@
     }
   ],
   "divider": {
-    "file": "blue-neon-divider-loop.gif",
+    "file": "project-separator.svg",
     "size": [
       990,
-      18
+      1
     ],
-    "sha256": "7acc177d4eb0d7c1b150c52c76e7a3d1bb8fe88bc6a94723aff2d49fc786f080",
-    "source": "divider-source/source.json",
-    "license": "divider-source/LICENSE.txt",
-    "use": "five directly adjacent separators; no paragraph margins",
-    "frames": 160,
-    "cycle": "continuous full-width rail from source frame 20; half-speed source keyframes forwards and backwards"
+    "displayHeightCSSPixels": 1,
+    "sha256": "ae8a0507176883e7a61026e6da33d9140b74389e4bf88bebab5ba904dbc07acd",
+    "implementation": "Original static SVG rectangle, fixed blue #22b8ff. No animation, glow, reveal, closing or extra row margin. Latest explicit user preference supersedes the animated divider.",
+    "use": "five directly adjacent hairlines between the six existing banners"
   }
 }

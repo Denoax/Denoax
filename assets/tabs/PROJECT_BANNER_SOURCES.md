@@ -19,8 +19,12 @@ GIFs use infinite looping with 30 fps target file cadence (30/40 ms delay quanti
 
 All six banners have a 990 × 352 canvas. The approved Portfolio GIF is unchanged. Pelagic uses its original Deep camera at a matching wide viewport; Kona fits the full original desktop beside its factual title. Hermes and Kattis omit the visible output/replay annotations while retaining their transcripts in project source notes.
 
-Five 990 × 18 animated separators adapt [Blue neon Line](https://lottiefiles.com/free-animation/blue-neon-line-UBRC19dqrQ) by **UBT umad Bin Tufail**. The published GIF and original vector animation were inspected. The source is rotated to horizontal, cropped, given a diffuse blue glow and played at half speed forward then reverse with 30 fps sampling of its existing keyframes; a continuous full-width rail from its full-width source frame 20 keeps the boundary visible. This is a licensed source adaptation, not model-generated media or the exact attached Vecteezy image. The derivative is distributed under the same [Lottie Simple License](divider-source/LICENSE.txt); [source records](divider-source/source.json) and the original published GIF/vector files are retained. No Lottie player or JavaScript is required by the GitHub README.
+Five fixed 990 × 1 SVG lines now separate the banners. Each is an original blue rectangle displayed at one CSS pixel, without glow, animation, reveal or closing. This follows the latest explicit request for a very small separation line.
+
+The prior neon animation, its [creator/source record](divider-source/source.json) and [Lottie Simple License](divider-source/LICENSE.txt) remain historical material. It is no longer the active separator.
 
 ## Compact boundaries and replacement flag
 
-The current README places image rows directly next to one another. GitHub-supported image alignment keeps its paragraph and baseline gaps out of the banner stack; the final clear restores normal document flow before the identity/links. Only the slim 18px source strip separates banners, scaling with their width. The prior spaced paragraph layout and earlier flag rendering were explicitly rejected. Historical assets remain recoverable in Git; the new filenames avoid reusing their cached image URLs.
+The current README places image rows directly next to one another. GitHub-supported image alignment keeps its paragraph and baseline gaps out of the banner stack; the final clear restores normal document flow before the identity/links. Only the fixed one-pixel line separates banners. The prior spaced paragraph layout and earlier flag rendering were explicitly rejected. Historical assets remain recoverable in Git; the new filenames avoid reusing their cached image URLs.
+
+The user also rejected the drawing/closing motion and the 18px strip as too thick. The active static hairline supersedes both animated treatments. The replacement Full HD flag footage remains unchanged.
