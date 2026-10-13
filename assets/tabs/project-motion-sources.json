@@ -6,33 +6,49 @@
       "project": "pelagic-jellyfish-webgl",
       "profileFile": "pelagic-sanctuary-loop.gif",
       "projectFile": "docs/readme/pelagic-sanctuary-loop.gif",
-      "sha256": "89226a46b760309fbaa5930445cd9685476a18ecd79a95de9c236b9ac79a6738",
-      "bytes": 7691211,
-      "sourceRevision": "66dff315da2290959aa3dd4bf92627e4850bab0d"
+      "sha256": "afbbc74cac20913338bb3df5d54058d6fb373e6670081c43e07a7d41d734ebf4",
+      "bytes": 4775064,
+      "sourceRevision": "66dff315da2290959aa3dd4bf92627e4850bab0d",
+      "outputSize": [
+        990,
+        352
+      ]
     },
     {
       "project": "konata-hyprland-dotfiles",
       "profileFile": "kona-desktop-loop.gif",
-      "projectFile": "showcase/assets/v3/shell-tour-30fps.gif",
-      "sha256": "03ecfd70618fd60eb60945177fbf601d3762384bbe9e0bb1f42d3b8df712e589",
-      "bytes": 12142000,
-      "sourceRevision": "e1e8ad65ccb7e7b20b82485f959d5249a5ff41b6"
+      "projectFile": "showcase/assets/v3/kona-desktop-loop.gif",
+      "sha256": "57ff188935846f858767194ebf29dca9c5d1ffc53ed91c351df4928daae0c75a",
+      "bytes": 6183755,
+      "sourceRevision": "e1e8ad65ccb7e7b20b82485f959d5249a5ff41b6",
+      "outputSize": [
+        990,
+        352
+      ]
     },
     {
       "project": "codex-hermes-router",
       "profileFile": "codex-hermes-loop.gif",
       "projectFile": "showcase/assets/cli-loop.gif",
-      "sha256": "d45ec357c7ff7eb565137b98f3c06a4db8c5ca8fe1f8013d9119e37b62d393f3",
-      "bytes": 6960126,
-      "sourceRevision": "36d0bf560e3dcd99f1eadcaffe97da7af2d469cc"
+      "sha256": "f03befec1f4dea622b76caea98590691195a6772b5cbb4859a16063358dd7e6d",
+      "bytes": 6947980,
+      "sourceRevision": "36d0bf560e3dcd99f1eadcaffe97da7af2d469cc",
+      "outputSize": [
+        990,
+        352
+      ]
     },
     {
       "project": "Kattis",
       "profileFile": "kattis-baloni-loop.gif",
       "projectFile": "assets/kattis-baloni-loop.gif",
-      "sha256": "1fe9097fd9b7e224327ccefbd0958667e9486821512789adc5a26e489485d56e",
-      "bytes": 2275061,
-      "sourceRevision": "0cc95c2c88cc19e93f87ff92e070932cb4ac1435"
+      "sha256": "fe596840784bb6657d0f1b3b28da30acc40fc30890119da57012a4645dbf3dbf",
+      "bytes": 2276488,
+      "sourceRevision": "0cc95c2c88cc19e93f87ff92e070932cb4ac1435",
+      "outputSize": [
+        990,
+        352
+      ]
     },
     {
       "project": "Government of Canada experience",
@@ -57,7 +73,24 @@
         "fps": 30,
         "lapFrames": 9,
         "bytes": 3652734
-      }
+      },
+      "outputSize": [
+        990,
+        352
+      ]
     }
-  ]
+  ],
+  "divider": {
+    "file": "blue-neon-divider.gif",
+    "size": [
+      990,
+      64
+    ],
+    "sha256": "412f635491446c7152da97e316f724fc4fa9b5cd01079eec2f5c5404d5d254e7",
+    "source": "divider-source/source.json",
+    "license": "divider-source/LICENSE.txt",
+    "use": "five separators between the six existing banner links",
+    "frames": 160,
+    "cycle": "half-speed source keyframes forward then reverse, with a faint source-frame rail"
+  }
 }

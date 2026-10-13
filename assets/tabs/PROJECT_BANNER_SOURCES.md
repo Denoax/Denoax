@@ -14,3 +14,9 @@ Only the six existing banner links are included. The approved Portfolio infinite
 GIFs use infinite looping with 30 fps target file cadence (30/40 ms delay quantization). Natural footage uses disclosed lap edits rather than a false claim of an exact periodic simulation. Browser animation checks and file measurements do not establish physical-device frame rate or human visual approval. No generated media or fabricated application results were added.
 
 [Exact output/source SHA-256 records](project-motion-sources.json). Matching project/profile assets have identical bytes.
+
+## Consistent sizing and neon separation
+
+All six banners have a 990 × 352 canvas. The approved Portfolio GIF is unchanged. Pelagic uses its original Deep camera at a matching wide viewport; Kona fits the full original desktop beside its factual title. Hermes and Kattis omit the visible output/replay annotations while retaining their transcripts in project source notes.
+
+Five 990 × 64 animated separators adapt [Blue neon Line](https://lottiefiles.com/free-animation/blue-neon-line-UBRC19dqrQ) by **UBT umad Bin Tufail**. The published GIF and original vector animation were inspected. The source is rotated to horizontal, cropped, given a diffuse blue glow and played at half speed forward then reverse with 30 fps sampling of its existing keyframes; a faint rail from its first source frame keeps the boundary visible. This is a licensed source adaptation, not model-generated media or the exact attached Vecteezy image. The derivative is distributed under the same [Lottie Simple License](divider-source/LICENSE.txt); [source records](divider-source/source.json) and the original published GIF/vector files are retained. No Lottie player or JavaScript is required by the GitHub README.

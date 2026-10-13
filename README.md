@@ -1,9 +1,25 @@
 <a href="https://github.com/Denoax/portfolio"><img src="./assets/tabs/portfolio-intro-zoom-loop.gif" alt="Portfolio intro — closer dark-mode infinite zoom loop from the original site renderer" width="100%"></a>
+
+<p align="center"><img src="./assets/tabs/blue-neon-divider.gif" alt="" width="100%"></p>
+
 <a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/tabs/pelagic-sanctuary-loop.gif" alt="Pelagic — original jellyfish in the deepest rock-lit sanctuary" width="100%"></a>
+
+<p align="center"><img src="./assets/tabs/blue-neon-divider.gif" alt="" width="100%"></p>
+
 <a href="https://github.com/Denoax/codex-hermes-router"><img src="./assets/tabs/codex-hermes-loop.gif" alt="Codex × Hermes — smooth replay of actual command help" width="100%"></a>
+
+<p align="center"><img src="./assets/tabs/blue-neon-divider.gif" alt="" width="100%"></p>
+
 <a href="https://github.com/Denoax/konata-hyprland-dotfiles"><img src="./assets/tabs/kona-desktop-loop.gif" alt="Kona Desktop V3 — original native desktop motion at 30 fps" width="100%"></a>
+
+<p align="center"><img src="./assets/tabs/blue-neon-divider.gif" alt="" width="100%"></p>
+
 <a href="https://github.com/Denoax/Kattis"><img src="./assets/tabs/kattis-baloni-loop.gif" alt="Open Kattis — original Baloni C++ solution and its actual result" width="100%"></a>
+
+<p align="center"><img src="./assets/tabs/blue-neon-divider.gif" alt="" width="100%"></p>
+
 <a href="https://www.linkedin.com/in/mani-marami-milani-8713a7309/"><img src="./assets/tabs/canada-flag-loop.gif" alt="Government of Canada and Agriculture and Agri-Food Canada — real Canadian flag in the wind" width="100%"></a>
+
 <div align="center">
 
 # MANI MARAMI MILANI
@@ -13,4 +29,4 @@
 
 </div>
 
-[Banner sources and editing notes](assets/tabs/PROJECT_BANNER_SOURCES.md).
+[Banner sources and editing notes](assets/tabs/PROJECT_BANNER_SOURCES.md) · [Blue neon divider by UBT umad](https://lottiefiles.com/free-animation/blue-neon-line-UBRC19dqrQ).
