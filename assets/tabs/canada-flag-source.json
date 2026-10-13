@@ -1,0 +1,34 @@
+{
+  "page": "https://www.pexels.com/video/canadian-flag-waving-5714140/",
+  "creator": "Cyrus Photography",
+  "download": "https://videos.pexels.com/video-files/5714140/5714140-hd_1920_1080_30fps.mp4",
+  "license": "https://www.pexels.com/license/",
+  "sourceSHA256": "e164349287ee2a3e6e29c7835319483796facb2abd2d42d78690f2997d88f12c",
+  "measuredSource": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "seconds": 10.466667
+  },
+  "edit": {
+    "canvas": [
+      990,
+      352
+    ],
+    "fittedOriginal": [
+      626,
+      352
+    ],
+    "titlePlate": "Same factual Government of Canada / Agriculture and Agri-Food Canada experience text",
+    "sourceStartFrame": 93,
+    "sourceEndFrame": 212,
+    "frames": 238,
+    "fps": 30,
+    "seconds": 7.933333333333334,
+    "loop": "Original native footage forwards then backwards, quiet endpoints. All frames come from the real source clip. No stabilization, crossfade, optical-flow interpolation or generated media.",
+    "paletteColors": 256,
+    "dither": "none"
+  },
+  "outputSHA256": "ae036865a906d1639850796ce569ca5dabced089d960226f2b3af6eb2c103b31",
+  "bytes": 16888004
+}

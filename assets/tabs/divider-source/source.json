@@ -8,6 +8,6 @@
   "publishedVector": "https://assets-v2.lottiefiles.com/a/6b069dd0-1188-11ee-bf44-93c2b465144d/xqzILgAWHR.lottie",
   "originalVectorSHA256": "da4efdb5685544751d280b7838b100d6c6dd3a399b47274a5ac8a683bdcf36f5",
   "sourceMetadata": "LottieFiles AE 3.1.1 exporter metadata, vector shape layers and trim/stroke keyframes; inspected original data, no embedded raster assets",
-  "adaptation": "Original published vector animation reoriented horizontally, cropped to 990x64, blue drop-shadow glow and a faint source-frame rail. Half-speed forward/reverse playback closes the original end-to-start jump; existing keyframes sampled at 30fps. No model-generated media.",
+  "adaptation": "Original vector animation reoriented horizontally, clipped to an 18px edge strip; blue glow and a continuous rail from its full-width frame 20. Half-speed forward/reverse existing keyframes sampled at 30fps. No model-generated media.",
   "researchAlternatives": "Inspected LottieFiles creator source, gifs.cc animated rules, WilsonInfo dividers, Wikimedia horizontal rule, Tenor and stock motion listings. Selected source has reusable original vector animation and an explicit free license; paid and externally generated alternatives excluded."
 }

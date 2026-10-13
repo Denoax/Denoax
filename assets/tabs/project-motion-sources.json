@@ -52,27 +52,40 @@
     },
     {
       "project": "Government of Canada experience",
-      "profileFile": "canada-flag-loop.gif",
-      "sha256": "700851edd3c6401edb97e357cd613ba5d9ba16ab84fbf968e719de5281e1dba3",
-      "bytes": 3652734,
+      "profileFile": "canada-flag-hd-loop.gif",
+      "sha256": "ae036865a906d1639850796ce569ca5dabced089d960226f2b3af6eb2c103b31",
+      "bytes": 16888004,
       "source": {
-        "page": "https://www.pexels.com/video/waving-canadian-flag-4095205/",
-        "creator": "WeStarMoney Rec",
-        "download": "https://videos.pexels.com/video-files/4095205/4095205-uhd_3840_2160_30fps.mp4",
+        "page": "https://www.pexels.com/video/canadian-flag-waving-5714140/",
+        "creator": "Cyrus Photography",
+        "download": "https://videos.pexels.com/video-files/5714140/5714140-hd_1920_1080_30fps.mp4",
         "license": "https://www.pexels.com/license/",
-        "sha256": "210b256b929be01c3472cd1ee946fdaa4facd8132745796f89ddd8cf2bed4b80",
-        "measured": "3840x2160,30fps,5.653333seconds (page60fps label differs from actual file)"
+        "sourceSHA256": "e164349287ee2a3e6e29c7835319483796facb2abd2d42d78690f2997d88f12c",
+        "measuredSource": {
+          "width": 1920,
+          "height": 1080,
+          "fps": 30,
+          "seconds": 10.466667
+        }
       },
       "edit": {
-        "method": "Licensed real footage; static-camera stabilization with vidstab virtual tripod, crop and original typography. Closest native poses selected, 0.3 second lap dissolve, mild codec-noise filtering, original 30fps pace. Not an unedited live recording.",
-        "originalFrames": 169,
-        "matchedStartFrame": 14,
-        "matchedEndFrame": 104,
-        "matchedMeanRGB": 12.322407407407406,
-        "outputFrames": 82,
+        "canvas": [
+          990,
+          352
+        ],
+        "fittedOriginal": [
+          626,
+          352
+        ],
+        "titlePlate": "Same factual Government of Canada / Agriculture and Agri-Food Canada experience text",
+        "sourceStartFrame": 93,
+        "sourceEndFrame": 212,
+        "frames": 238,
         "fps": 30,
-        "lapFrames": 9,
-        "bytes": 3652734
+        "seconds": 7.933333333333334,
+        "loop": "Original native footage forwards then backwards, quiet endpoints. All frames come from the real source clip. No stabilization, crossfade, optical-flow interpolation or generated media.",
+        "paletteColors": 256,
+        "dither": "none"
       },
       "outputSize": [
         990,
@@ -81,16 +94,16 @@
     }
   ],
   "divider": {
-    "file": "blue-neon-divider.gif",
+    "file": "blue-neon-divider-loop.gif",
     "size": [
       990,
-      64
+      18
     ],
-    "sha256": "412f635491446c7152da97e316f724fc4fa9b5cd01079eec2f5c5404d5d254e7",
+    "sha256": "7acc177d4eb0d7c1b150c52c76e7a3d1bb8fe88bc6a94723aff2d49fc786f080",
     "source": "divider-source/source.json",
     "license": "divider-source/LICENSE.txt",
-    "use": "five separators between the six existing banner links",
+    "use": "five directly adjacent separators; no paragraph margins",
     "frames": 160,
-    "cycle": "half-speed source keyframes forward then reverse, with a faint source-frame rail"
+    "cycle": "continuous full-width rail from source frame 20; half-speed source keyframes forwards and backwards"
   }
 }
