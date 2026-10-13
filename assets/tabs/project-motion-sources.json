@@ -94,14 +94,14 @@
     }
   ],
   "divider": {
-    "file": "project-separator.svg",
+    "file": "project-hairline.svg",
     "size": [
-      990,
+      "100%",
       1
     ],
     "displayHeightCSSPixels": 1,
-    "sha256": "ae8a0507176883e7a61026e6da33d9140b74389e4bf88bebab5ba904dbc07acd",
-    "implementation": "Original static SVG rectangle, fixed blue #22b8ff. No animation, glow, reveal, closing or extra row margin. Latest explicit user preference supersedes the animated divider.",
+    "sha256": "36e0b105f639ac19ee316c3c6bffe918ca1ede133ad9c724d8d051f893947aef",
+    "implementation": "Original static SVG with an intrinsic height of 1 CSS pixel and no intrinsic aspect ratio. Responsive width preserves exact visible one-pixel height on GitHub, including mobile. No animation, glow or margins.",
     "use": "five directly adjacent hairlines between the six existing banners"
   }
 }

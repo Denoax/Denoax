@@ -19,7 +19,7 @@ GIFs use infinite looping with 30 fps target file cadence (30/40 ms delay quanti
 
 All six banners have a 990 × 352 canvas. The approved Portfolio GIF is unchanged. Pelagic uses its original Deep camera at a matching wide viewport; Kona fits the full original desktop beside its factual title. Hermes and Kattis omit the visible output/replay annotations while retaining their transcripts in project source notes.
 
-Five fixed 990 × 1 SVG lines now separate the banners. Each is an original blue rectangle displayed at one CSS pixel, without glow, animation, reveal or closing. This follows the latest explicit request for a very small separation line.
+Five fixed responsive-width × 1px SVG lines now separate the banners. Each is an original blue rectangle displayed at one CSS pixel, without glow, animation, reveal or closing. This follows the latest explicit request for a very small separation line.
 
 The prior neon animation, its [creator/source record](divider-source/source.json) and [Lottie Simple License](divider-source/LICENSE.txt) remain historical material. It is no longer the active separator.
 
@@ -28,3 +28,5 @@ The prior neon animation, its [creator/source record](divider-source/source.json
 The current README places image rows directly next to one another. GitHub-supported image alignment keeps its paragraph and baseline gaps out of the banner stack; the final clear restores normal document flow before the identity/links. Only the fixed one-pixel line separates banners. The prior spaced paragraph layout and earlier flag rendering were explicitly rejected. Historical assets remain recoverable in Git; the new filenames avoid reusing their cached image URLs.
 
 The user also rejected the drawing/closing motion and the 18px strip as too thick. The active static hairline supersedes both animated treatments. The replacement Full HD flag footage remains unchanged.
+
+The first one-pixel asset had a 990:1 intrinsic aspect ratio: GitHub scaled its height below one pixel, and the user reported two invisible boundaries. The active SVG has no intrinsic ratio and retains exactly one CSS pixel at desktop/mobile widths.
