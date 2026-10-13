@@ -1,0 +1,63 @@
+{
+  "scope": "Only banners already present on the profile README. Approved Portfolio GIF unchanged. No additional or private project entries.",
+  "portfolioSHA256Unchanged": "5fdeaec8956918e0aab31765976447df34dd5825f6836390cae5409c0a6f499f",
+  "files": [
+    {
+      "project": "pelagic-jellyfish-webgl",
+      "profileFile": "pelagic-sanctuary-loop.gif",
+      "projectFile": "docs/readme/pelagic-sanctuary-loop.gif",
+      "sha256": "89226a46b760309fbaa5930445cd9685476a18ecd79a95de9c236b9ac79a6738",
+      "bytes": 7691211,
+      "sourceRevision": "66dff315da2290959aa3dd4bf92627e4850bab0d"
+    },
+    {
+      "project": "konata-hyprland-dotfiles",
+      "profileFile": "kona-desktop-loop.gif",
+      "projectFile": "showcase/assets/v3/shell-tour-30fps.gif",
+      "sha256": "03ecfd70618fd60eb60945177fbf601d3762384bbe9e0bb1f42d3b8df712e589",
+      "bytes": 12142000,
+      "sourceRevision": "e1e8ad65ccb7e7b20b82485f959d5249a5ff41b6"
+    },
+    {
+      "project": "codex-hermes-router",
+      "profileFile": "codex-hermes-loop.gif",
+      "projectFile": "showcase/assets/cli-loop.gif",
+      "sha256": "d45ec357c7ff7eb565137b98f3c06a4db8c5ca8fe1f8013d9119e37b62d393f3",
+      "bytes": 6960126,
+      "sourceRevision": "36d0bf560e3dcd99f1eadcaffe97da7af2d469cc"
+    },
+    {
+      "project": "Kattis",
+      "profileFile": "kattis-baloni-loop.gif",
+      "projectFile": "assets/kattis-baloni-loop.gif",
+      "sha256": "1fe9097fd9b7e224327ccefbd0958667e9486821512789adc5a26e489485d56e",
+      "bytes": 2275061,
+      "sourceRevision": "0cc95c2c88cc19e93f87ff92e070932cb4ac1435"
+    },
+    {
+      "project": "Government of Canada experience",
+      "profileFile": "canada-flag-loop.gif",
+      "sha256": "700851edd3c6401edb97e357cd613ba5d9ba16ab84fbf968e719de5281e1dba3",
+      "bytes": 3652734,
+      "source": {
+        "page": "https://www.pexels.com/video/waving-canadian-flag-4095205/",
+        "creator": "WeStarMoney Rec",
+        "download": "https://videos.pexels.com/video-files/4095205/4095205-uhd_3840_2160_30fps.mp4",
+        "license": "https://www.pexels.com/license/",
+        "sha256": "210b256b929be01c3472cd1ee946fdaa4facd8132745796f89ddd8cf2bed4b80",
+        "measured": "3840x2160,30fps,5.653333seconds (page60fps label differs from actual file)"
+      },
+      "edit": {
+        "method": "Licensed real footage; static-camera stabilization with vidstab virtual tripod, crop and original typography. Closest native poses selected, 0.3 second lap dissolve, mild codec-noise filtering, original 30fps pace. Not an unedited live recording.",
+        "originalFrames": 169,
+        "matchedStartFrame": 14,
+        "matchedEndFrame": 104,
+        "matchedMeanRGB": 12.322407407407406,
+        "outputFrames": 82,
+        "fps": 30,
+        "lapFrames": 9,
+        "bytes": 3652734
+      }
+    }
+  ]
+}
