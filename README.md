@@ -1,4 +1,4 @@
-<a href="https://github.com/Denoax/portfolio"><img src="./assets/tabs/portfolio-intro.webp" alt="Portfolio intro — Mani Marami Milani's concentric typographic opening, captured from the live site" width="100%"></a>
+<a href="https://github.com/Denoax/portfolio"><img src="./assets/tabs/portfolio-intro-dark.gif" alt="Portfolio intro — animated dark-mode concentric typography, captured from the live site" width="100%"></a>
 <a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/tabs/pelagic-banner.webp" alt="Pelagic — a living WebGL ocean" width="100%"></a>
 <a href="https://github.com/Denoax/codex-hermes-router"><img src="./assets/tabs/codex-hermes.webp" alt="Codex × Hermes — authority-aware local inference offload" width="100%"></a>
 <a href="https://github.com/Denoax/konata-hyprland-dotfiles"><img src="./assets/tabs/kona-v3-banner.webp" alt="Kona Desktop V3 — Arch Linux and Hyprland" width="100%"></a>
