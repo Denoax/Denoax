@@ -4,15 +4,17 @@
   "files": [
     {
       "project": "pelagic-jellyfish-webgl",
-      "profileFile": "pelagic-sanctuary-loop.gif",
-      "projectFile": "docs/readme/pelagic-sanctuary-loop.gif",
-      "sha256": "afbbc74cac20913338bb3df5d54058d6fb373e6670081c43e07a7d41d734ebf4",
-      "bytes": 4775064,
+      "profileFile": "pelagic-sanctuary-clean-loop.gif",
+      "projectFile": "docs/readme/pelagic-sanctuary-clean-loop.gif",
+      "sha256": "65edd246da56dffb019b654c8756c91473622424758ed744217807e0474fa9e7",
+      "bytes": 5088397,
       "sourceRevision": "66dff315da2290959aa3dd4bf92627e4850bab0d",
       "outputSize": [
         990,
         352
-      ]
+      ],
+      "overlays": "All DOM interface overlays and cursor hidden during capture; original ocean canvas only.",
+      "exportNotes": "Original 30 fps sampling and 0.5-second lap edit; software WebGL capture; exact renderer and native state in project motion-source.json."
     },
     {
       "project": "konata-hyprland-dotfiles",
@@ -28,27 +30,39 @@
     },
     {
       "project": "codex-hermes-router",
-      "profileFile": "codex-hermes-loop.gif",
-      "projectFile": "showcase/assets/cli-loop.gif",
-      "sha256": "f03befec1f4dea622b76caea98590691195a6772b5cbb4859a16063358dd7e6d",
-      "bytes": 6947980,
-      "sourceRevision": "36d0bf560e3dcd99f1eadcaffe97da7af2d469cc",
+      "profileFile": "codex-hermes-static-banner.webp",
+      "projectFile": "showcase/assets/codex-hermes-static-banner.webp",
+      "sha256": "07da5d1e8940a0b592ea4bd7562a2e54d756618ee2c156f137389ed8cd91b3ec",
+      "sourceSHA256": "cb62c23bf5a8e552d536127ed2e780279071c6b70219937cf15407bf5b9619c6",
+      "sourceFile": "codex-hermes.webp",
+      "sourceRevision": "171405e4e73fa5cf6e0754f04ed610d9188f8f4a",
+      "bytes": 40802,
       "outputSize": [
         990,
         352
-      ]
+      ],
+      "format": "static lossless WebP",
+      "edit": "Original pre-motion profile artwork, fitted without distortion at 990 x 330; original top/bottom rows extend 11 pixels each to retain the shared 990 x 352 banner canvas.",
+      "previousMotionFile": "codex-hermes-loop.gif",
+      "status": "Original static artwork restored by explicit user request; CLI motion banner retired from README."
     },
     {
       "project": "Kattis",
-      "profileFile": "kattis-baloni-loop.gif",
-      "projectFile": "assets/kattis-baloni-loop.gif",
-      "sha256": "fe596840784bb6657d0f1b3b28da30acc40fc30890119da57012a4645dbf3dbf",
-      "bytes": 2276488,
-      "sourceRevision": "0cc95c2c88cc19e93f87ff92e070932cb4ac1435",
+      "profileFile": "kattis-static-banner.webp",
+      "projectFile": "assets/kattis-static-banner.webp",
+      "sha256": "057d35eb0871430ca3f5ada34c9ad1f80320ad828f5c57391b2dfc9c41bdb1ef",
+      "sourceSHA256": "36d99d223c6439b2c1d1cc809e4176cfdb31f59f2af0b4e90ce490d021304313",
+      "sourceFile": "kattis-competitive-programming.webp",
+      "sourceRevision": "171405e4e73fa5cf6e0754f04ed610d9188f8f4a",
+      "bytes": 105086,
       "outputSize": [
         990,
         352
-      ]
+      ],
+      "format": "static lossless WebP",
+      "edit": "Original pre-motion profile artwork, fitted without distortion at 990 x 330; original top/bottom rows extend 11 pixels each to retain the shared 990 x 352 banner canvas.",
+      "previousMotionFile": "kattis-baloni-loop.gif",
+      "status": "Original static artwork restored by explicit user request; CLI motion banner retired from README."
     },
     {
       "project": "Government of Canada experience",
@@ -103,5 +117,6 @@
     "sha256": "36e0b105f639ac19ee316c3c6bffe918ca1ede133ad9c724d8d051f893947aef",
     "implementation": "Original static SVG with an intrinsic height of 1 CSS pixel and no intrinsic aspect ratio. Responsive width preserves exact visible one-pixel height on GitHub, including mobile. No animation, glow or margins.",
     "use": "five directly adjacent hairlines between the six existing banners"
-  }
+  },
+  "currentBannerCorrection": "Kattis and Codex x Hermes restored to original static artwork. Pelagic shows only the original swimming jellyfish and rock-lit ocean; no interface is visible."
 }
