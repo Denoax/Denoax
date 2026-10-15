@@ -1,6 +1,6 @@
 # Existing profile banners
 
-Only the six existing banner links are included. The approved Portfolio infinite-zoom GIF is byte-for-byte unchanged.
+The seven current banner links include Visual Music above Government of Canada. The six previously approved banners are unchanged. The approved Portfolio infinite-zoom GIF is byte-for-byte unchanged.
 
 | Banner | Real source and editing notes |
 | --- | --- |
@@ -9,6 +9,7 @@ Only the six existing banner links are included. The approved Portfolio infinite
 | Kona | [Original native compositor masters, 30 fps exports, privacy omissions](https://github.com/Denoax/konata-hyprland-dotfiles/blob/main/showcase/MOTION_SOURCE.md); original artwork remains under its existing third-party notices |
 | Codex × Hermes | Restored [original static artwork](codex-hermes.webp), fitted without stretching or cropping to the common banner canvas. The previous CLI replay remains historical material. |
 | Open Kattis | Restored [original static artwork](kattis-competitive-programming.webp), fitted without stretching or cropping to the common banner canvas. The previous C++ replay remains historical material. |
+| Visual Music | [Actual LED-floor renderer footage and exact banner edit](visual-music-source.json); original DOM lettering, disclosed0.5s lap edit, matching project/profile bytes and a reduced-motion still. |
 | Government of Canada experience | [Canadian Flag Waving](https://www.pexels.com/video/canadian-flag-waving-5714140/) by Cyrus Photography, edited under the [Pexels license](https://www.pexels.com/license/). Actual source: 1920 × 1080 at 30 fps. The full native frame is fitted beside the factual experience title; a quiet-endpoint forward/reverse edit closes the loop. Every flag frame is from the original real footage. No stabilization, crossfade, optical-flow interpolation or generated media. [Exact source/edit records](canada-flag-source.json). |
 
 GIFs use infinite looping with 30 fps target file cadence (30/40 ms delay quantization). Natural footage uses disclosed lap edits rather than a false claim of an exact periodic simulation. Browser animation checks and file measurements do not establish physical-device frame rate or human visual approval. No generated media or fabricated application results were added.
@@ -38,3 +39,9 @@ At the user's explicit request, the Kattis and Codex × Hermes CLI animations ar
 Pelagic is re-recorded with a capture-only canvas allowlist. Only the original swimming jellyfish, rocks, living light and ocean remain visible. Every eyebrow, text label, navigation link, button, view/settings control, footer, debug overlay and pointer is hidden; the actual website remains unchanged. The native camera, identical 45:16 viewport aspect ratio, desktop population, lighting, anatomy and simulation match the established Deep capture. It is rendered at 1215 × 432 and downsampled to 990 × 352, retaining the original 30 fps sampling and 0.5-second lap edit, with a 256-color export. The initial idle-glass settling frames are omitted; the final ocean-only loop is 180 frames over 6 seconds. Hardware-context initialization was unavailable for this capture; the exact software WebGL renderer is recorded in its project source notes. File cadence does not prove browser/device frame rate.
 
 The approved Portfolio intro, Kona desktop, Canadian flag and all five fixed one-pixel separators are byte-for-byte unchanged. The six banner sizes remain 990 × 352. New filenames avoid stale cached versions.
+
+## Visual Music addition — 2026-10-14
+
+The linked [Visual Music project](https://github.com/Denoax/bumer-exe) now sits immediately above Government of Canada. Its990×352 GIF is byte-identical to the project README banner: actual reviewed LED-floor footage, original Instrument Sans lettering and a disclosed0.5-second lap edit at original pace. The GIF is a documentation composition, not an unedited runtime recording. [Exact source/output hashes and processing](visual-music-source.json). The still fallback is selected for reduced motion. No generated imagery or added application results.
+
+All seven banner canvases are990×352. Six copies of the same fixed responsive-width×1px project-hairline.svg separate them. The SVG bytes and previous five separators are unchanged; one identical separator follows Visual Music. Every other banner, link and profile paragraph is byte-for-byte unchanged.

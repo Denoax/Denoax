@@ -9,6 +9,8 @@
 <img src="./assets/tabs/project-hairline.svg" alt="" width="100%" height="1" align="left">
 <a href="https://github.com/Denoax/Kattis"><img src="./assets/tabs/kattis-static-banner.webp" alt="Competitive Programming — Open Kattis C++ solutions" width="100%" align="left"></a>
 <img src="./assets/tabs/project-hairline.svg" alt="" width="100%" height="1" align="left">
+<a href="https://github.com/Denoax/bumer-exe"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/tabs/visual-music-loop-poster.webp"><img src="./assets/tabs/visual-music-loop.gif" alt="Visual Music — music-reactive LED waves and low flight" width="100%" align="left"></picture></a>
+<img src="./assets/tabs/project-hairline.svg" alt="" width="100%" height="1" align="left">
 <a href="https://www.linkedin.com/in/mani-marami-milani-8713a7309/"><img src="./assets/tabs/canada-flag-hd-loop.gif" alt="Government of Canada and Agriculture and Agri-Food Canada — real Canadian flag in the wind" width="100%" align="left"></a>
 <br clear="all">
 </div>
