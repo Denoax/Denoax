@@ -1,0 +1,14 @@
+{
+  "source": "Original SVG following the owner requested dark-blue to blue to white gradient, modestly thicker than the preceding1px flat line.",
+  "file": "project-divider-gradient.svg",
+  "sha256": "67c01e2145738a93eef16f8b5a7d6332f384d876931fef5761e8f44db2e38cf8",
+  "height_css_px": 3,
+  "instances": 7,
+  "stops": [
+    "#0a2255",
+    "#168bf5",
+    "#ffffff"
+  ],
+  "direction": "left to right",
+  "previous_asset": "project-hairline.svg retained unchanged as history"
+}

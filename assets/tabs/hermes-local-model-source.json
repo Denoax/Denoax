@@ -1,0 +1,46 @@
+{
+  "source": {
+    "path": "showcase/github/banner.html",
+    "bytes": 2401,
+    "sha256": "74752b845031d34bbeaa06677a1205e80f356fb861f3e3decb86aa538face9c7"
+  },
+  "capture": {
+    "path": "showcase/github/banner-still.webp",
+    "bytes": 27128,
+    "sha256": "d61a7481e4e52a26af44f90717c4e994714b4915bacbea9179d27d1b183a23a5"
+  },
+  "operation": "Static DOM composition from the unchanged real closed-Settings UI capture; original Bebas Neue/DM Sans and Hermes mark. Local model label; requested description/byline removed. Complete 2:1 UI capture fitted without crop inside a centered 792x396 frame. No generated imagery or application changes.",
+  "files": {
+    "banner.png": {
+      "path": "showcase/github/banner.png",
+      "bytes": 61379,
+      "sha256": "33c88c7c66afbd9d8594d6a6086abbd2b370d7f9bcefe5545d261771b1758178"
+    },
+    "social-preview.png": {
+      "path": "showcase/github/social-preview.png",
+      "bytes": 58599,
+      "sha256": "f7ad6979ca059a9a559565e4dfa63dee5756d35b31c74d37974e3eef6591fbc3"
+    }
+  },
+  "banner_canvas": {
+    "width": 990,
+    "height": 352,
+    "fit": "Full 1280x460 authored composition fitted without crop or stretch."
+  },
+  "social_preview": {
+    "width": 1280,
+    "height": 640,
+    "under_1_MB": true
+  },
+  "historical_motion": {
+    "path": "showcase/github/banner.gif",
+    "sha256": "b691bc8c2c7a2bf960b549b46f9adae1993547ad62f3404a1ccda99a743311d7",
+    "bytes": 839961,
+    "source_sha256": "ebcc0fd70314a2020d82ad32b1e5aa0998553014285510d764cf17a8fe81f7de",
+    "note": "Previous composition retained unchanged as historical media; current static banner source supersedes its lettering/layout."
+  },
+  "project_repository": "Denoax/hermes-workspace",
+  "profile_file": "assets/tabs/hermes-local-model-banner.png",
+  "published_project_commit": "5408c825b1ba35a3db73a2ce8e23a2e45c28d186",
+  "published_source": "https://github.com/Denoax/hermes-workspace/blob/5408c825b1ba35a3db73a2ce8e23a2e45c28d186/showcase/github/banner.html"
+}
