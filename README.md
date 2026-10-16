@@ -9,7 +9,7 @@
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
 <a href="https://github.com/Denoax/Kattis"><img src="./assets/tabs/kattis-static-banner.webp" alt="Competitive Programming — Open Kattis C++ solutions" width="100%" align="left"></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
-<a href="https://github.com/Denoax/bumer-exe"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/tabs/visual-music-loop-poster.webp?v=clean-title"><img src="./assets/tabs/visual-music-loop.gif?v=clean-title" alt="Visual Music — music-reactive LED waves and low flight" width="100%" align="left"></picture></a>
+<a href="https://github.com/Denoax/visual-music"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/tabs/visual-music-loop-poster.webp?v=clean-title"><img src="./assets/tabs/visual-music-loop.gif?v=clean-title" alt="Visual Music — music-reactive LED waves and low flight" width="100%" align="left"></picture></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
 <a href="https://github.com/Denoax/hermes-workspace"><img src="./assets/tabs/hermes-local-model-banner.png" alt="Hermes × Your local model — centered workspace interface" width="100%" align="left"></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
