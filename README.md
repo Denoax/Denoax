@@ -1,5 +1,5 @@
 <div>
-<a href="https://github.com/Denoax/portfolio"><img src="./assets/tabs/portfolio-intro-zoom-loop.gif" alt="Portfolio intro — closer dark-mode infinite zoom loop from the original site renderer" width="100%" align="left"></a>
+<a href="https://manimarami.com/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/tabs/portfolio-intro-buddy-v28-1-poster.webp"><img src="./assets/tabs/portfolio-intro-buddy-v28-1.gif" alt="Click on me to enter my Portfolio Website — the current dark intro with the blinking buddy" width="100%" align="left"></picture></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
 <a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/tabs/pelagic-sanctuary-clean-loop.gif" alt="Pelagic — original jellyfish swimming in the rock-lit sanctuary, without interface overlays" width="100%" align="left"></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">

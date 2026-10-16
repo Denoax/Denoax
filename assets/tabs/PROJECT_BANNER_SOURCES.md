@@ -1,4 +1,12 @@
-# Existing profile banners
+# Current profile intro banner — 2026-10-16
+
+The first profile banner now shows the current v28.1 Ringwriter intro with the existing original buddy. A profile-only thought bubble follows Mani's attached shape reference and says **“Click on me to enter my Portfolio Website”**. The whole banner links directly to **https://manimarami.com/**. The buddy blinks twice and briefly shows X eyes once per ten-second loop. These additions exist only in the captured profile GIF; the actual website and the `Denoax/portfolio` repository banner are unchanged.
+
+Actual original Three.js rendering and the existing SVG were exported at 300 evenly spaced phases, then encoded as a 990 × 352, 30 fps, infinitely repeating GIF. A static original-renderer poster is supplied for reduced motion. [Exact source, expression timing, palette and loop-continuity measurements](portfolio-intro-buddy-source.json). No generated imagery, reference pixels, watermark, invented interface or application changes were added. Encoded cadence is not a physical-display performance claim. The old clean intro GIF remains recoverable at its original path; all other active banner rows and their separators remain unchanged.
+
+## Historical banner decisions (before this profile-only update)
+
+### Existing profile banners
 
 Eight project/experience banners share a990×352 canvas. Visual Music sits above Local Hermes, then Government of Canada. Seven restrained3px separators use an original dark-blue → blue → white horizontal SVG gradient. The current Hermes banner says Local model, omits its old description/name, and centers the complete unchanged UI capture. Earlier entries below preserve the superseded presentation decisions.
 

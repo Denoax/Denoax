@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-16",
+  "scope": "Denoax/Denoax profile banner only. Portfolio repository banner and application are unchanged.",
+  "website": "https://manimarami.com/",
+  "bubbleText": "Click on me to enter my Portfolio Website",
+  "reference": "Mani supplied rounded charcoal thought bubble with rounded tail and detached dot. Adapted in original CSS, mirrored to point to the existing lower-left buddy. No reference pixels or watermark are reused.",
+  "source": {
+    "type": "Actual current local portfolio renderer and original ThemeToggle SVG",
+    "runtimeRevision": "f6b8c516fa25cec51d531b640fc3aba86a5e4b24",
+    "fileSHA256": {
+      "src/experience/hub/Ringwriter.ts": "3b0cb3e8d79ef99ef7ecdb882aa60519ae93020f8ae42cfa8016e769182810cd",
+      "src/core/introBands.ts": "81e96d87bbdb720189687758df41edec5d6532ae5682f5a8d248469493b73d9b",
+      "src/core/introMotion.ts": "64828efcccbfde2fb521daa85c47afbcfc6732e3ceb46f2fd69b0346d680c4b7",
+      "src/app/IdentityIntro.tsx": "ec76bd1e56502aa42b5b02c2d333b732127bf8a09e33d60a73b4b12a96a0065a",
+      "src/app/ThemeToggle.tsx": "a1670e4c6594d30ba1d312529ae40575e4bfdfadac091db74e60146af0f318cc",
+      "src/styles/v18.css": "0ace7c4203a967481a0ce08c5370de40f2cc8c4748462d1ca88d852d64c46489",
+      "src/core/theme.ts": "07abb244b96ba283087f4cf29c34d359ff9a233a0923fbbd955f2b2f872d53e9"
+    },
+    "renderer": "ANGLE (NVIDIA Corporation, NVIDIA GeForce RTX 4070/PCIe/SSE2, OpenGL ES 3.2)",
+    "captureViewport": {
+      "width": 1440,
+      "height": 512
+    },
+    "method": "Actual current Ringwriter scene, one full depth period, fixed angular phase. Original buddy SVG cloned into this ephemeral browser only, with reference-shaped thought bubble and authored periodic expressions. No application edits, generated imagery, reverse edit, optical-flow interpolation or crossfade.",
+    "initialZoom": 4.275964344810234,
+    "depthPeriod": 5,
+    "rotationPhase": 12,
+    "captureOnlyBuddySizeCss": 90,
+    "captureOnlyBubbleCss": "\n      .portfolio-dock { visibility:hidden !important; }\n      .intro-hint, .theme-tooltip { display:none !important; }\n      .profile-banner-callout { position:fixed;inset:0;z-index:100;pointer-events:none; }\n      .profile-banner-bubble { position:absolute;left:24px;bottom:150px;width:540px;height:104px;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#303030;color:#f4f4f2;border-radius:60px;font:500 29px/1.26 'Instrument Sans Variable',sans-serif;letter-spacing:-.35px;text-align:center; }\n      .profile-banner-bubble:after { content:'';position:absolute;left:36px;bottom:-15px;width:32px;height:32px;border-radius:50%;background:#303030; }\n      .profile-banner-bubble i { position:absolute;left:46px;bottom:-37px;width:12px;height:12px;border-radius:50%;background:#303030; }\n      .profile-banner-buddy { position:absolute;left:32px;bottom:16px;width:90px;height:90px; }\n      .profile-banner-buddy .theme-buddy { width:90px;height:90px;display:block;transform-origin:50% 70%; }\n    "
+  },
+  "motion": {
+    "seconds": 10,
+    "frames": 300,
+    "encodedCadenceFPS": 30,
+    "loop": "infinite",
+    "zoom": "One complete original geometry depth period OUT, fixed angular phase, matching the prior drift-free GIF export method.",
+    "blinkCentersSeconds": [
+      2.1,
+      7.6
+    ],
+    "blinkDurationSeconds": 0.26,
+    "xEyesSeconds": [
+      5.15,
+      5.65
+    ],
+    "body": "One bounded periodic bob/tilt per loop.",
+    "continuity": "Source phase0/phase1 and encoded wrap measurements below; no reverse edit, crossfade or optical-flow interpolation."
+  },
+  "output": {
+    "path": "portfolio-intro-buddy-v28-1.gif",
+    "bytes": 19932893,
+    "sha256": "fb21d19c835d648362df9d91dd774ecd2e9985ed6a1476f46a7089ad7c313e04",
+    "dimensions": [
+      990,
+      352
+    ],
+    "frames": 300,
+    "uniqueFrames": 300,
+    "durationMs": 10000,
+    "averageEncodedFPS": 30.0,
+    "delaysMs": [
+      30,
+      40
+    ],
+    "loop": 0,
+    "encodedAdjacentMeanRGBDeltaMedian": 11.492330501989594,
+    "encodedAdjacentMeanRGBDeltaMaximum": 12.41941192225283,
+    "encodedLastToFirstMeanRGBDelta": 11.017075107131925,
+    "sourcePhase0To1MeanRGBDelta": 0.0010796440972222223,
+    "scope": "Source/encoded loop continuity and frame timing. Not physical-display FPS or human approval."
+  },
+  "poster": {
+    "path": "portfolio-intro-buddy-v28-1-poster.webp",
+    "bytes": 35224,
+    "sha256": "4bf4a32627b276cd3688f8a9901eca7330cb558f1f2e7177f2d6795fe4f1e0e5",
+    "purpose": "GitHub-supported picture source for prefers-reduced-motion."
+  },
+  "conversion": "Lanczos downsample1440x512\u2192990x352;32-colour global palette without dithering. All300frames unique; GIF30/40ms delay quantization. Lossy GIF palette/downsample; file cadence is not measured browser/device FPS.",
+  "preservation": {
+    "previousProfileCommit": "bc7faf5130cf52813a5521226a448cacb1a5f39c",
+    "portfolioMainBefore": "e4f7fdada95bafde1ff2cbeb2d63d15abee0d555",
+    "otherProfileRowsUnchanged": true,
+    "portfolioRepositoryBannerModified": false,
+    "applicationModified": false,
+    "previousGifRetained": "portfolio-intro-zoom-loop.gif"
+  },
+  "limits": [
+    "No physical-device or physical-display FPS validation.",
+    "Human aesthetic/motion approval belongs to Mani."
+  ],
+  "validation": {
+    "localBrowser": "PASS: Chromium desktop1440/mobile390 GIF decoding/fit/animation, website destination, reduced-motion static poster. Actual exported GIF also opened/inspected through Iris.",
+    "frameInspection": "Full exported normal/X-eye and encoded32-colour frames inspected. Source phase0/1 and encoded seam measured. No human aesthetic approval claimed.",
+    "capturePreservesApplication": true
+  }
+}
