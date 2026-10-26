@@ -1,3 +1,9 @@
+# CAPRI addition — 2026-10-25
+
+The linked CAPRI row follows Codex × Hermes and uses the approved V11 hero directly from the public project: [GIF](https://raw.githubusercontent.com/Denoax/capri/main/showcase/capri/hero.gif) and [PNG reduced-motion fallback](https://raw.githubusercontent.com/Denoax/capri/main/showcase/capri/hero.png). The 1000×343 GIF keeps its original proportions at 100% width; it is not stretched or cropped to the other 990×352 canvases. Original anime/city footage, authored cloud/code scene and AGENTIC LOOPING lettering are unchanged. The shared 3px profile gradient separator follows the row; all eight previous banners, links, separator bytes and body prose remain unchanged.
+
+The source is CAPRI V11 commit `905e97cbb0cce79e15addac820b79db631d29f3d`; native 120 samples and exact 30/40 ms timing cover four seconds. [Source/asset qualifications and font notices](https://github.com/Denoax/capri/blob/main/docs/ASSETS.md) remain authoritative; public availability grants no new media licence. No profile-specific artwork or generated media was added. Direct project URLs keep the profile and project using identical asset bytes.
+
 # Current profile intro banner — 2026-10-16
 
 The first profile banner now shows the current v28.1 Ringwriter intro with the existing original buddy. A profile-only thought bubble follows Mani's attached shape reference and says **“Click on me to enter my Portfolio Website”**. The whole banner links directly to **https://manimarami.com/**. The buddy blinks twice and briefly shows X eyes once per ten-second loop. These additions exist only in the captured profile GIF; the actual website and the `Denoax/portfolio` repository banner are unchanged.
