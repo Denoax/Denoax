@@ -1,0 +1,392 @@
+{
+  "status": "TESTING_CANDIDATE_REQUIRES_VISUAL_REVIEW",
+  "date": "2026-10-26",
+  "application": {
+    "head": "72a3c7a2a75913de64d8baf1591282acd19d181c",
+    "tree": "b0fa82481fcb00d5804636505641c4e8f9d8efe2",
+    "status": "?? showcase/v28-1-evidence/\n?? showcase/v28-evidence/",
+    "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "runtime_dirty_files": [],
+    "ignored_from_capture": "Historical untracked showcase/v28-evidence and showcase/v28-1-evidence; not app/build inputs",
+    "capture_url": "https://manimarami.com/",
+    "served_code_hash_verified": [
+      "index.html",
+      "assets/index-Bi6tBUON.js",
+      "assets/main-DI2HUrv0.js",
+      "assets/main-CVV0v8MK.css"
+    ]
+  },
+  "profile": {
+    "base": "b7877cbb46c36425aa5deef2747caebba463bebc",
+    "tree": "d3411d4606a9621fce928dca9b053cc8bd453f4d",
+    "branch": "testing/profile-intro-banner-20261026-01a16be6"
+  },
+  "recordings": [
+    {
+      "theme": "light",
+      "url": "https://manimarami.com/",
+      "viewport": [
+        1440,
+        512
+      ],
+      "DPR": 1,
+      "renderer": "ANGLE (NVIDIA Corporation, NVIDIA GeForce RTX 4070/PCIe/SSE2, OpenGL ES 3.2)",
+      "browser": "151.0.7922.34",
+      "captureCSS": ".portfolio-dock{visibility:hidden!important}.intro-hint,.theme-tooltip{display:none!important}.identity-intro:focus,.identity-intro:focus-visible{outline:none!important}html,body,*{cursor:none!important}",
+      "applicationEdits": false,
+      "sceneClockReset": false,
+      "captureOnly": "Live duplicate dock, transient hint/tooltip, focus ring/cursor hidden; actual header and natural renderer/clock retained. Preserved buddy/bubble composed later as a lossless source overlay.",
+      "captureDurationSeconds": 23.93243098258972,
+      "frameEventsPerSecond": 54.44494965630118,
+      "errors": [],
+      "events": 1304,
+      "first_capture_utc": "2026-10-27T03:05:05.315819+00:00",
+      "settings": {
+        "graphics": "high",
+        "motion": "system",
+        "brightness": 100,
+        "soundVolume": 0,
+        "ambienceVolume": 0
+      },
+      "waves_before": {
+        "uWaveTime": 7.032899856567383,
+        "uWaveVisibility": 1,
+        "uWaveBrightness": 1,
+        "uWaveCellFrequency": 12.800000190734863,
+        "uWaveResolution": [
+          1440,
+          512
+        ],
+        "uWaveBase": [
+          0.7991027235984802,
+          0.8148465752601624,
+          0.8468732237815857
+        ],
+        "uWaveCrest": [
+          0.68668532371521,
+          0.7230551242828369,
+          0.7835378050804138
+        ]
+      },
+      "waves_after": {
+        "uWaveTime": 31.181900024414062,
+        "uWaveVisibility": 1,
+        "uWaveBrightness": 1,
+        "uWaveCellFrequency": 12.800000190734863,
+        "uWaveResolution": [
+          1440,
+          512
+        ],
+        "uWaveBase": [
+          0.7991027235984802,
+          0.8148465752601624,
+          0.8468732237815857
+        ],
+        "uWaveCrest": [
+          0.68668532371521,
+          0.7230551242828369,
+          0.7835378050804138
+        ]
+      },
+      "frame_order": "native PNG events sorted by capture timestamps; no synthesis or speed adjustment",
+      "final_window_start_seconds": 13.5,
+      "final_window_seconds": 10
+    },
+    {
+      "theme": "dark",
+      "url": "https://manimarami.com/",
+      "viewport": [
+        1440,
+        512
+      ],
+      "DPR": 1,
+      "renderer": "ANGLE (NVIDIA Corporation, NVIDIA GeForce RTX 4070/PCIe/SSE2, OpenGL ES 3.2)",
+      "browser": "151.0.7922.34",
+      "captureCSS": ".portfolio-dock{visibility:hidden!important}.intro-hint,.theme-tooltip{display:none!important}.identity-intro:focus,.identity-intro:focus-visible{outline:none!important}html,body,*{cursor:none!important}",
+      "applicationEdits": false,
+      "sceneClockReset": false,
+      "captureOnly": "Live duplicate dock, transient hint/tooltip, focus ring/cursor hidden; actual header and natural renderer/clock retained. Preserved buddy/bubble composed later as a lossless source overlay.",
+      "captureDurationSeconds": 23.95326805114746,
+      "frameEventsPerSecond": 48.803361508076144,
+      "errors": [],
+      "events": 1170,
+      "first_capture_utc": "2026-10-27T03:05:38.083883+00:00",
+      "settings": {
+        "graphics": "high",
+        "motion": "system",
+        "brightness": 100,
+        "soundVolume": 0,
+        "ambienceVolume": 0
+      },
+      "waves_before": {
+        "uWaveTime": 7.232800006866455,
+        "uWaveVisibility": 1,
+        "uWaveBrightness": 1,
+        "uWaveCellFrequency": 12.800000190734863,
+        "uWaveResolution": [
+          1440,
+          512
+        ],
+        "uWaveBase": [
+          0.0015176349552348256,
+          0.0018211619462817907,
+          0.002124688820913434
+        ],
+        "uWaveCrest": [
+          0.007499032188206911,
+          0.01032982300966978,
+          0.01599629409611225
+        ]
+      },
+      "waves_after": {
+        "uWaveTime": 31.43199920654297,
+        "uWaveVisibility": 1,
+        "uWaveBrightness": 1,
+        "uWaveCellFrequency": 12.800000190734863,
+        "uWaveResolution": [
+          1440,
+          512
+        ],
+        "uWaveBase": [
+          0.0015176349552348256,
+          0.0018211619462817907,
+          0.002124688820913434
+        ],
+        "uWaveCrest": [
+          0.007499032188206911,
+          0.01032982300966978,
+          0.01599629409611225
+        ]
+      },
+      "frame_order": "native PNG events sorted by capture timestamps; no synthesis or speed adjustment",
+      "final_window_start_seconds": 13.5,
+      "final_window_seconds": 10
+    }
+  ],
+  "masters": {
+    "status": "PASS",
+    "masters": [
+      {
+        "theme": "light",
+        "frames": 1304,
+        "max_timestamp_error_seconds": 0.0011129703521746137,
+        "bytes": 11309121,
+        "sha256": "3df48c291028b59880bfc6a4d548a9815b719c02607f63f54f61a033e9640830",
+        "compression": "H264 CRF20; native images ordered by capture timestamps, no cuts or retiming"
+      },
+      {
+        "theme": "dark",
+        "frames": 1170,
+        "max_timestamp_error_seconds": 0.00107906341552777,
+        "bytes": 13120577,
+        "sha256": "52cb2e64c7f3324278ec14995b19e179fc76b571b968c3a3f82d1435e2841393",
+        "compression": "H264 CRF20; native images ordered by capture timestamps, no cuts or retiming"
+      }
+    ]
+  },
+  "overlay": {
+    "authority": "portfolio-intro-buddy-source.json and unchanged original GIF/poster",
+    "historical_source": {
+      "status": "PASS",
+      "source": "f6b8c516fa25cec51d531b640fc3aba86a5e4b24",
+      "files": [
+        {
+          "path": "src/experience/hub/Ringwriter.ts",
+          "expected": "3b0cb3e8d79ef99ef7ecdb882aa60519ae93020f8ae42cfa8016e769182810cd",
+          "actual": "3b0cb3e8d79ef99ef7ecdb882aa60519ae93020f8ae42cfa8016e769182810cd",
+          "match": true
+        },
+        {
+          "path": "src/core/introBands.ts",
+          "expected": "81e96d87bbdb720189687758df41edec5d6532ae5682f5a8d248469493b73d9b",
+          "actual": "81e96d87bbdb720189687758df41edec5d6532ae5682f5a8d248469493b73d9b",
+          "match": true
+        },
+        {
+          "path": "src/core/introMotion.ts",
+          "expected": "64828efcccbfde2fb521daa85c47afbcfc6732e3ceb46f2fd69b0346d680c4b7",
+          "actual": "64828efcccbfde2fb521daa85c47afbcfc6732e3ceb46f2fd69b0346d680c4b7",
+          "match": true
+        },
+        {
+          "path": "src/app/IdentityIntro.tsx",
+          "expected": "ec76bd1e56502aa42b5b02c2d333b732127bf8a09e33d60a73b4b12a96a0065a",
+          "actual": "ec76bd1e56502aa42b5b02c2d333b732127bf8a09e33d60a73b4b12a96a0065a",
+          "match": true
+        },
+        {
+          "path": "src/app/ThemeToggle.tsx",
+          "expected": "a1670e4c6594d30ba1d312529ae40575e4bfdfadac091db74e60146af0f318cc",
+          "actual": "a1670e4c6594d30ba1d312529ae40575e4bfdfadac091db74e60146af0f318cc",
+          "match": true
+        },
+        {
+          "path": "src/styles/v18.css",
+          "expected": "0ace7c4203a967481a0ce08c5370de40f2cc8c4748462d1ca88d852d64c46489",
+          "actual": "0ace7c4203a967481a0ce08c5370de40f2cc8c4748462d1ca88d852d64c46489",
+          "match": true
+        },
+        {
+          "path": "src/core/theme.ts",
+          "expected": "07abb244b96ba283087f4cf29c34d359ff9a233a0923fbbd955f2b2f872d53e9",
+          "actual": "07abb244b96ba283087f4cf29c34d359ff9a233a0923fbbd955f2b2f872d53e9",
+          "match": true
+        }
+      ]
+    },
+    "source_layer": {
+      "svg": "<svg class=\"theme-buddy\" viewBox=\"0 0 64 64\" aria-hidden=\"true\" data-expression=\"awake\" style=\"transform: translateY(0px) rotate(2.59838deg) scale(1, 1);\"><defs><radialGradient id=\"buddy-material\" cx=\"52%\" cy=\"47%\" r=\"61%\"><stop offset=\".48\" stop-color=\"var(--buddy-body)\"></stop><stop offset=\".80\" stop-color=\"var(--buddy-body)\"></stop><stop offset=\"1\" stop-color=\"var(--buddy-rim)\"></stop></radialGradient><radialGradient id=\"buddy-light\" cx=\"28%\" cy=\"9%\" r=\"76%\"><stop stop-color=\"#fff\" stop-opacity=\".19\"></stop><stop offset=\".48\" stop-color=\"#fff\" stop-opacity=\"0\"></stop></radialGradient></defs><path d=\"M32 4C49 3 60 15 60 31C61 47 48 57 32 57C15 58 4 48 4 33C3 18 15 5 32 4Z\" fill=\"url(#buddy-material)\"></path><path d=\"M32 4C49 3 60 15 60 31C61 47 48 57 32 57C15 58 4 48 4 33C3 18 15 5 32 4Z\" fill=\"url(#buddy-light)\"></path><g fill=\"var(--buddy-face)\" stroke=\"var(--buddy-face)\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" transform=\"translate(3.2479720283505746 -1.0053246754418443)\"><g class=\"buddy-open\"><circle cx=\"26\" cy=\"25\" r=\"3.6\" stroke=\"none\"></circle><circle cx=\"39\" cy=\"25\" r=\"3.6\" stroke=\"none\"></circle></g><g class=\"buddy-smile\" fill=\"none\"><path d=\"M22 26Q26 22 30 26M35 26Q39 22 43 26\"></path></g><g class=\"buddy-sleep\" fill=\"none\"><path d=\"M23 26H29M36 26H42\"></path></g><g class=\"buddy-cross\" fill=\"none\"><path d=\"M23 23L29 29M29 23L23 29M36 23L42 29M42 23L36 29\"></path></g></g></svg>",
+      "css": "\n      .portfolio-dock { visibility:hidden !important; }\n      .intro-hint, .theme-tooltip { display:none !important; }\n      .profile-banner-callout { position:fixed;inset:0;z-index:100;pointer-events:none; }\n      .profile-banner-bubble { position:absolute;left:24px;bottom:150px;width:540px;height:104px;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#303030;color:#f4f4f2;border-radius:60px;font:500 29px/1.26 'Instrument Sans Variable',sans-serif;letter-spacing:-.35px;text-align:center; }\n      .profile-banner-bubble:after { content:'';position:absolute;left:36px;bottom:-15px;width:32px;height:32px;border-radius:50%;background:#303030; }\n      .profile-banner-bubble i { position:absolute;left:46px;bottom:-37px;width:12px;height:12px;border-radius:50%;background:#303030; }\n      .profile-banner-buddy { position:absolute;left:32px;bottom:16px;width:90px;height:90px; }\n      .profile-banner-buddy .theme-buddy { width:90px;height:90px;display:block;transform-origin:50% 70%; }\n    ",
+      "buddyRules": ".theme-buddy {\n  position: relative;\n  width: 64px;\n  height: 64px;\n  overflow: visible;\n  transform-origin: 50% 70%;\n  pointer-events: none;\n}\n.buddy-shadow {\n  position: absolute;\n  width: 38px;\n  height: 7px;\n  left: 13px;\n  bottom: 0;\n  background: #10182028;\n  filter: blur(3px);\n  border-radius: 50%;\n  pointer-events: none;\n}\n.theme-buddy :is(.buddy-smile, .buddy-sleep, .buddy-cross) {\n  display: none;\n}\n.theme-buddy[data-expression='smile'] .buddy-open,\n.theme-buddy[data-expression='sleep'] .buddy-open,\n.theme-buddy[data-expression='pressed'] .buddy-open {\n  display: none;\n}\n.theme-buddy[data-expression='smile'] .buddy-smile,\n.theme-buddy[data-expression='sleep'] .buddy-sleep,\n.theme-buddy[data-expression='pressed'] .buddy-cross {\n  display: initial;\n}\n",
+      "darkMaterial": {
+        "body": "#101010",
+        "rim": "#626262",
+        "face": "#ffffff"
+      }
+    },
+    "layout": {
+      "bubble": {
+        "x": 24,
+        "y": 258,
+        "width": 540,
+        "height": 104,
+        "top": 258,
+        "right": 564,
+        "bottom": 362,
+        "left": 24
+      },
+      "buddy": {
+        "x": 32,
+        "y": 406,
+        "width": 90,
+        "height": 90,
+        "top": 406,
+        "right": 122,
+        "bottom": 496,
+        "left": 32
+      },
+      "font": "500 29px / 36.54px \"Instrument Sans Variable\", sans-serif",
+      "text": "Click on me to enter myPortfolio Website"
+    },
+    "svg_sha256": "b5a13653d6cf647ce124fde20165283a4a2546f2fb9be8b53b476cdbfa84449c",
+    "font_sha256": "2ee17598a98d8a59e4df8152d015bec9ab8e4d5672cc0ab42bef806b568e3971",
+    "blink_seconds": [
+      2.1,
+      7.6
+    ],
+    "blink_duration_seconds": 0.26,
+    "X_seconds": [
+      5.15,
+      5.65
+    ],
+    "bob_pixels": 1.5,
+    "tilt_degrees": 1.1,
+    "period_seconds": 10
+  },
+  "encoding": {
+    "dimensions": [
+      990,
+      352
+    ],
+    "frames": 300,
+    "duration_ms": 10000,
+    "repeat": 0,
+    "palette_colors": 128,
+    "dither": "none",
+    "fps": 30,
+    "cadence_ms": [
+      30,
+      40
+    ],
+    "downsample": "one Lanczos scale from1440x512 after compositing",
+    "background": "contiguous real1x capture; sampled30fps, no interpolation",
+    "poster": "lossless WebP from first decoded GIF frame"
+  },
+  "seam": {
+    "status": "PARTIAL_REVIEW_REQUIRED",
+    "edit": "natural hard-cut phase reset",
+    "limitations": "Visible wrap phase discontinuity. Longer44s native takes compared.100ms lap rejected for doubled letters. No app clock reset, fade, reverse, freeze, optical flow or generated frames."
+  },
+  "validation": {
+    "technical_status": "PASS",
+    "visual_seam_status": "PARTIAL_REVIEW_REQUIRED",
+    "assets": [
+      {
+        "theme": "light",
+        "bytes": 42482903,
+        "sha256": "e0630e9994c903559db0e36776d0c7b735068f22afdd18daf646d05fda279598",
+        "poster_sha256": "44149eec6e77591152f81ec357a8f5852d95e6af1152d2957de9ce06b8e90c2d",
+        "dimensions": [
+          990,
+          352
+        ],
+        "frames": 300,
+        "uniqueFrames": 297,
+        "durationMs": 10000,
+        "fps": 30,
+        "delaysMs": [
+          30,
+          40
+        ],
+        "repeat": 0,
+        "palette": 128,
+        "dither": "none",
+        "adjacent_median_RGB_delta": 2.7913079660238753,
+        "adjacent_max_RGB_delta": 7.569373660850933,
+        "wrap_RGB_delta": 28.213622015610653,
+        "poster_matches_first_frame": true,
+        "motion_review": "Natural hard-cut phase reset remains for human review; ghosting lap rejected."
+      },
+      {
+        "theme": "dark",
+        "bytes": 38508748,
+        "sha256": "3f503f5fa265a6095748c4a7ea9ea1036be7bf791b323914a0f8988a8d405a41",
+        "poster_sha256": "cd17c69284e1ffc12f9d129d90f37161f27672442bc3b8071f3bee2b1fb9a45c",
+        "dimensions": [
+          990,
+          352
+        ],
+        "frames": 300,
+        "uniqueFrames": 294,
+        "durationMs": 10000,
+        "fps": 30,
+        "delaysMs": [
+          30,
+          40
+        ],
+        "repeat": 0,
+        "palette": 128,
+        "dither": "none",
+        "adjacent_median_RGB_delta": 3.324943564432201,
+        "adjacent_max_RGB_delta": 10.15663930976431,
+        "wrap_RGB_delta": 34.238878367003366,
+        "poster_matches_first_frame": true,
+        "motion_review": "Natural hard-cut phase reset remains for human review; ghosting lap rejected."
+      }
+    ]
+  },
+  "assets": [
+    {
+      "path": "assets/tabs/portfolio-intro-waves-72a3c7a-20261026-light.gif",
+      "bytes": 42482903,
+      "sha256": "e0630e9994c903559db0e36776d0c7b735068f22afdd18daf646d05fda279598"
+    },
+    {
+      "path": "assets/tabs/portfolio-intro-waves-72a3c7a-20261026-light-poster.webp",
+      "bytes": 142034,
+      "sha256": "44149eec6e77591152f81ec357a8f5852d95e6af1152d2957de9ce06b8e90c2d"
+    },
+    {
+      "path": "assets/tabs/portfolio-intro-waves-72a3c7a-20261026-dark.gif",
+      "bytes": 38508748,
+      "sha256": "3f503f5fa265a6095748c4a7ea9ea1036be7bf791b323914a0f8988a8d405a41"
+    },
+    {
+      "path": "assets/tabs/portfolio-intro-waves-72a3c7a-20261026-dark-poster.webp",
+      "bytes": 154212,
+      "sha256": "cd17c69284e1ffc12f9d129d90f37161f27672442bc3b8071f3bee2b1fb9a45c"
+    }
+  ],
+  "scope": "Only first profile README banner, four new media files, this source record and relevant banner notes. Other rows/assets retained. No profile-main, app or deployment authority.",
+  "human_visual_approval": false
+}

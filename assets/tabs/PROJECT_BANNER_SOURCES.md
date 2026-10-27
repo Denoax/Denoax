@@ -4,7 +4,15 @@ The linked CAPRI row precedes Codex × Hermes and uses the current transparent-l
 
 The lettering comes from approved CAPRI V11 commit `905e97cbb0cce79e15addac820b79db631d29f3d`, with the 2026-10-26 transparent-left/frame correction; native 120 samples and exact 30/40 ms timing cover four seconds. [Source/asset qualifications and font notices](https://github.com/Denoax/capri/blob/main/docs/ASSETS.md) remain authoritative; public availability grants no new media licence. No profile-specific artwork or generated media was added. Direct project URLs keep the profile and project using identical asset bytes.
 
-# Current profile intro banner — 2026-10-16
+# Current profile intro banner — 2026-10-26
+
+The first row uses fresh, separate light and dark native recordings of [the actual portfolio](https://manimarami.com/) at source `72a3c7a2a75913de64d8baf1591282acd19d181c`, tree `b0fa82481fcb00d5804636505641c4e8f9d8efe2`. Its current Ringwriter and fine-square Waves are recorded after the loader exits, at 1440×512/DPR1 on NVIDIA RTX4070. The exact original dark buddy and charcoal bubble, wording, geometry, two blinks and X-eye interval are recovered from their original source and composed over either real theme. No app/runtime changes or generated media.
+
+Both 990×352 GIFs contain 300 frames over 10 seconds, 30/40ms cadence, infinite repeat, 128 global colors and no dithering. Light is the default; `<picture>` selects a genuine dark take and matching static reduced-motion posters. Posters match the first decoded GIF frame. Light GIF:42,482,903 bytes; dark:38,508,748 bytes. [Exact capture, edit, overlay and asset hashes](portfolio-intro-waves-72a3c7a-20261026-source.json).
+
+**Review limitation:** the unwrapped current scene has a visible natural phase reset at the loop boundary. Longer native takes were compared; a short dissolve that doubled lettering was rejected. No fade, reversal, generated frames or scene clock reset is shipped. This testing candidate needs Mani's visual review; file validation and playback do not imply approval. The original 2026-10-16 media remains unchanged and recoverable. All later README rows, separator bytes, alt text, prose and CAPRI-before-Codex order are preserved.
+
+# Historical profile intro banner — 2026-10-16
 
 The first profile banner now shows the current v28.1 Ringwriter intro with the existing original buddy. A profile-only thought bubble follows Mani's attached shape reference and says **“Click on me to enter my Portfolio Website”**. The whole banner links directly to **https://manimarami.com/**. The buddy blinks twice and briefly shows X eyes once per ten-second loop. These additions exist only in the captured profile GIF; the actual website and the `Denoax/portfolio` repository banner are unchanged.
 
