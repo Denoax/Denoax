@@ -10,7 +10,7 @@ The first row uses fresh, separate light and dark native recordings of [the actu
 
 Both 990×352 GIFs contain 300 frames over 10 seconds, 30/40ms cadence, infinite repeat, 128 global colors and no dithering. Light is the default; `<picture>` selects a genuine dark take and matching static reduced-motion posters. Posters match the first decoded GIF frame. Light GIF:42,482,903 bytes; dark:38,508,748 bytes. [Exact capture, edit, overlay and asset hashes](portfolio-intro-waves-72a3c7a-20261026-source.json).
 
-**Review limitation:** the unwrapped current scene has a visible natural phase reset at the loop boundary. Longer native takes were compared; a short dissolve that doubled lettering was rejected. No fade, reversal, generated frames or scene clock reset is shipped. This testing candidate needs Mani's visual review; file validation and playback do not imply approval. The original 2026-10-16 media remains unchanged and recoverable. All later README rows, separator bytes, alt text, prose and CAPRI-before-Codex order are preserved.
+**Approved presentation:** Mani approved candidate `8e629071301c76df0bbc99c6f4d884fb83816b4e` for profile main publication on 2026-10-26. The disclosed natural phase reset at the ten-second loop boundary remains. Longer native takes were compared; a short dissolve that doubled lettering was rejected. No fade, reversal, generated frames or scene clock reset is shipped. Publication preserves the approved media bytes. The original 2026-10-16 media remains unchanged and recoverable. All later README rows, separator bytes, alt text, prose and CAPRI-before-Codex order are preserved.
 
 # Historical profile intro banner — 2026-10-16
 

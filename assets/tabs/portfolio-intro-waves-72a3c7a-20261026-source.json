@@ -1,5 +1,5 @@
 {
-  "status": "TESTING_CANDIDATE_REQUIRES_VISUAL_REVIEW",
+  "status": "APPROVED_FOR_PROFILE_MAIN",
   "date": "2026-10-26",
   "application": {
     "head": "72a3c7a2a75913de64d8baf1591282acd19d181c",
@@ -303,7 +303,7 @@
     "poster": "lossless WebP from first decoded GIF frame"
   },
   "seam": {
-    "status": "PARTIAL_REVIEW_REQUIRED",
+    "status": "DISCLOSED_LIMITATION_ACCEPTED_WITH_CANDIDATE",
     "edit": "natural hard-cut phase reset",
     "limitations": "Visible wrap phase discontinuity. Longer44s native takes compared.100ms lap rejected for doubled letters. No app clock reset, fade, reverse, freeze, optical flow or generated frames."
   },
@@ -387,6 +387,13 @@
       "sha256": "cd17c69284e1ffc12f9d129d90f37161f27672442bc3b8071f3bee2b1fb9a45c"
     }
   ],
-  "scope": "Only first profile README banner, four new media files, this source record and relevant banner notes. Other rows/assets retained. No profile-main, app or deployment authority.",
-  "human_visual_approval": false
+  "scope": "Only first profile README banner, four new media files and source/edit notes. Mani authorized main publication of the approved candidate. Other profile rows and assets retained. No website/runtime changes.",
+  "human_visual_approval": true,
+  "approval": {
+    "approved_candidate": "8e629071301c76df0bbc99c6f4d884fb83816b4e",
+    "user_instruction": "i approve push to main and update README as well",
+    "scope": "Publish approved first profile README banner to Denoax/Denoax main; preserve exact media and other rows.",
+    "existing_seam_limitation": "Visible natural phase reset at10s wrap disclosed before approval. No media changes in publication.",
+    "approved_recorded_utc": "2026-10-27T04:40:37.861332+00:00"
+  }
 }
