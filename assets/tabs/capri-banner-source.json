@@ -1,0 +1,46 @@
+{
+  "asset": "CAPRI public-profile banner",
+  "delivery_fix_date": "2026-10-28",
+  "problem": "Public profile depended on raw images from a currently private repository; both returned404 anonymously.",
+  "fix": "Keep exact previously approved and publicly published media in profile-owned assets and use relative README URLs.",
+  "approved_media_source_commit": "aacd5c1b8564e218f9c69cee2a1c00b8cab310a2",
+  "original_source_paths": [
+    "showcase/capri/hero.gif",
+    "showcase/capri/hero.png"
+  ],
+  "prior_publication": "Owner-published CAPRI transparent hero and profile on2026-10-26. Existing public delivery receipt verifies these exact byte identities.",
+  "modified_media": false,
+  "new_generated_media": false,
+  "private_repository_content_added": "None beyond these exact already-public approved banner bytes.",
+  "gif": {
+    "size": [
+      1000,
+      343
+    ],
+    "frames": 120,
+    "duration_ms": 4000,
+    "loop": "infinite",
+    "transparency": "preserved"
+  },
+  "png": {
+    "size": [
+      1400,
+      480
+    ],
+    "reduced_motion_fallback": true,
+    "transparency": "preserved"
+  },
+  "assets": [
+    {
+      "path": "assets/tabs/capri-transparent-banner.gif",
+      "bytes": 6024170,
+      "sha256": "426a7c6cf1af9d74371476f3c37dfe6018734e31a80972b4d39b1dcc91afa353"
+    },
+    {
+      "path": "assets/tabs/capri-transparent-banner.png",
+      "bytes": 639296,
+      "sha256": "1b4692539da215eec2c7684a04c937288b2bb11bbe8fa2c023ad195e0481e9a6"
+    }
+  ],
+  "rights": "Original character/source-footage qualifications and font notices continue to apply; no new media licence is granted."
+}

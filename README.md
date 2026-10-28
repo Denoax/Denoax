@@ -3,7 +3,7 @@
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
 <a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/tabs/pelagic-sanctuary-clean-loop.gif" alt="Pelagic — original jellyfish swimming in the rock-lit sanctuary, without interface overlays" width="100%" align="left"></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
-<a href="https://github.com/Denoax/capri"><picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Denoax/capri/main/showcase/capri/hero.png"><img src="https://raw.githubusercontent.com/Denoax/capri/main/showcase/capri/hero.gif" alt="CAPRI — Agentic Looping: focused inputs, scoped execution and a separate review pass" width="100%" align="left"></picture></a>
+<a href="https://github.com/Denoax/capri"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/tabs/capri-transparent-banner.png"><img src="./assets/tabs/capri-transparent-banner.gif" alt="CAPRI — Agentic Looping: focused inputs, scoped execution and a separate review pass" width="100%" align="left"></picture></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
 <a href="https://github.com/Denoax/codex-hermes-router"><img src="./assets/tabs/codex-hermes-static-banner.webp" alt="Codex × Hermes — authority-aware local inference offload" width="100%" align="left"></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
