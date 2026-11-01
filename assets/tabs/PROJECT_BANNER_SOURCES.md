@@ -90,3 +90,7 @@ older PNG/GIF and original source captures remain recoverable.
 exactly3 CSS pixels at desktop and portrait widths. The previous1px flat-blue
 asset remains historical. No animation, extra vertical gap or generated media.
 Every other banner’s bytes and all existing card destinations are unchanged.
+
+# Farm Stand profile banner — 2026-11-01
+
+A static 1980 × 704 PNG row links to the Farm Stand repository directly after the portfolio-intro hero and before Pelagic. Its 2.8125:1 ratio matches the existing 990 × 352 profile canvas at 2× resolution. The original file is copied byte for byte from the reviewed Farm Stand presentation commit; the existing barn mark, local Fraunces, licensed orchard photograph and real rendered stand scene remain documented in the source repository. The banner is not recropped, recompressed or animated in the profile repo. A static treatment preserves the one-way opening without fabricating a loop. [Source and output identity](farm-stand-banner-source.json).

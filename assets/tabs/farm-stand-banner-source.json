@@ -1,0 +1,18 @@
+{
+  "project": "Farm Stand profile banner",
+  "sourceRepository": "https://github.com/Denoax/farm-stand",
+  "sourceRevision": "ccbf7276cae810fd0e8e8e7904ab5a099935d3e3",
+  "sourcePath": "showcase/assets/farm-stand-banner.png",
+  "profilePath": "assets/tabs/farm-stand-static-banner.png",
+  "sha256": "ed7d2f9614e26d32498db2f8002d45545514423d2e38b977f0b1e51b7e549108",
+  "bytes": 1665158,
+  "dimensions": {
+    "width": 1980,
+    "height": 704
+  },
+  "format": "PNG",
+  "transfer": "Byte-for-byte copy; image pixels and metadata unchanged.",
+  "composition": "Farm Stand banner with existing barn mark, local Fraunces and settled production scene capture. Full source and capture provenance are in Denoax/farm-stand showcase/provenance.json.",
+  "linkedDestination": "https://github.com/Denoax/farm-stand",
+  "mediaUse": "Static image; no animation or generated frames."
+}
