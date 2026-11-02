@@ -1,7 +1,7 @@
 <div>
 <a href="https://manimarami.com/"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/tabs/portfolio-intro-waves-72a3c7a-20261026-dark-poster.webp"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/tabs/portfolio-intro-waves-72a3c7a-20261026-light-poster.webp"><source media="(prefers-color-scheme: dark)" srcset="./assets/tabs/portfolio-intro-waves-72a3c7a-20261026-dark.gif"><img src="./assets/tabs/portfolio-intro-waves-72a3c7a-20261026-light.gif" alt="Click on me to enter my Portfolio Website — the current dark intro with the blinking buddy" width="100%" align="left"></picture></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
-<a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/tabs/pelagic-sanctuary-clean-loop.gif?v=pelagic-original" alt="Pelagic — original jellyfish swimming in the rock-lit sanctuary, without interface overlays" width="100%" align="left"></a>
+<a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/tabs/pelagic-sanctuary-original.gif" alt="Pelagic — original jellyfish swimming in the rock-lit sanctuary, without interface overlays" width="100%" align="left"></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
 <a href="https://github.com/Denoax/farm-stand"><img src="./assets/tabs/farm-stand-static-banner.png" alt="Farm Stand — website-services showcase with a timber market stand opening onto an orchard" width="100%" align="left"></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
