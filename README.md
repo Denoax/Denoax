@@ -1,7 +1,7 @@
 <div>
 <a href="https://manimarami.com/"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/tabs/portfolio-intro-waves-72a3c7a-20261026-dark-poster.webp"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/tabs/portfolio-intro-waves-72a3c7a-20261026-light-poster.webp"><source media="(prefers-color-scheme: dark)" srcset="./assets/tabs/portfolio-intro-waves-72a3c7a-20261026-dark.gif"><img src="./assets/tabs/portfolio-intro-waves-72a3c7a-20261026-light.gif" alt="Click on me to enter my Portfolio Website — the current dark intro with the blinking buddy" width="100%" align="left"></picture></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
-<a href="https://github.com/Denoax/cachyos-amethyst-dotfiles"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/tabs/amethyst-banner.png"><img src="./assets/tabs/amethyst-banner.gif" alt="Amethyst — CachyOS desktop with the original animated monochrome wallpaper" width="100%" align="left"></picture></a>
+<a href="https://denoax.github.io/cachyos-amethyst-dotfiles/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Denoax/cachyos-amethyst-dotfiles/main/assets/banner/amethyst-still.webp"><img src="https://raw.githubusercontent.com/Denoax/cachyos-amethyst-dotfiles/main/assets/banner/amethyst-river.webp" alt="Amethyst crystal over the river. Open the interactive CachyOS desktop showcase." width="100%" align="left"></picture></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
 <a href="https://github.com/Denoax/pelagic-jellyfish-webgl"><img src="./assets/tabs/pelagic-sanctuary-original.gif" alt="Pelagic — original jellyfish swimming in the rock-lit sanctuary, without interface overlays" width="100%" align="left"></a>
 <img src="./assets/tabs/project-divider-gradient.svg" alt="" width="100%" height="3" align="left">
@@ -26,7 +26,7 @@
 # MANI MARAMI MILANI
 **Computer Science × Mathematics**<br>
 
-[Portfolio](https://manimarami.com) · [GitHub projects](https://github.com/Denoax?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/mani-marami-milani-8713a7309/) · [Pelagic live experience](https://denoax.github.io/pelagic-jellyfish-webgl/) · [Visual Music](https://denoax.github.io/visual-music/)
+[Portfolio](https://manimarami.com) · [GitHub projects](https://github.com/Denoax?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/mani-marami-milani-8713a7309/) · [Amethyst desktop](https://denoax.github.io/cachyos-amethyst-dotfiles/) · [Pelagic live experience](https://denoax.github.io/pelagic-jellyfish-webgl/) · [Visual Music](https://denoax.github.io/visual-music/)
 
 </div>
 
