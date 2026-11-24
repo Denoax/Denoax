@@ -97,6 +97,6 @@ A static 1980 × 704 PNG row links to the Farm Stand repository directly after t
 
 # Amethyst placement and Hermes move — 2026-11-17
 
-Amethyst sits between Portfolio and Pelagic and opens the [interactive desktop showcase](https://denoax.github.io/cachyos-amethyst-dotfiles/). The profile references the project’s own [animated banner and reduced-motion still](https://github.com/Denoax/cachyos-amethyst-dotfiles/tree/main/assets/banner). [Sources and asset terms](https://github.com/Denoax/cachyos-amethyst-dotfiles/blob/main/docs/ASSETS.md).
+Amethyst sits between Portfolio and Pelagic. Its CachyOS dotfiles banner opens the [interactive desktop showcase](https://denoax.github.io/cachyos-amethyst-dotfiles/). The profile uses the project’s [Lagoon portrait loop and reduced-motion still](https://github.com/Denoax/cachyos-amethyst-dotfiles/tree/main/assets/banner). [Artwork and asset terms](https://github.com/Denoax/cachyos-amethyst-dotfiles/blob/main/docs/ASSETS.md).
 
 The existing `hermes-local-model-banner.png` artwork is moved from near the bottom into Farm Stand's former slot after Pelagic. It links once to the Hermes local-agent workspace; the separate Codex × Hermes router stays unchanged. Farm Stand's project is untouched. Other banner bytes, markup, links and profile prose are unchanged; exactly one existing 3px gradient separator remains between adjacent rows.
